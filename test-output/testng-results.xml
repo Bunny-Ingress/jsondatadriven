@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2018-08-05T08:23:39Z" name="Default suite" finished-at="2018-08-05T08:23:57Z" duration-ms="18054">
+    <groups>
+    </groups>
+    <test started-at="2018-08-05T08:23:39Z" name="Default test" finished-at="2018-08-05T08:23:57Z" duration-ms="18054">
+      <class name="jsondatadriven.jsondata">
+        <test-method is-config="true" signature="setup()[pri:0, instance:jsondatadriven.jsondata@683dbc2c]" started-at="2018-08-05T08:23:39Z" name="setup" finished-at="2018-08-05T08:23:45Z" duration-ms="6746" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testSearch()[pri:0, instance:jsondatadriven.jsondata@683dbc2c]" started-at="2018-08-05T08:23:45Z" name="testSearch" finished-at="2018-08-05T08:23:54Z" duration-ms="8422" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSearch -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:jsondatadriven.jsondata@683dbc2c]" started-at="2018-08-05T08:23:54Z" name="tearDown" finished-at="2018-08-05T08:23:57Z" duration-ms="2869" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- jsondatadriven.jsondata -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
